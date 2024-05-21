@@ -1,5 +1,5 @@
 """ 
-Crea 3 variables, una de tipo número que represente tu  edad, otra de tipo string que represente tu nombre y otra  de tipo decimal que represente tu peso.
+Crea tres variables, una de tipo número que represente tu  edad, otra de tipo string que represente tu nombre y otra  de tipo decimal que represente tu peso.
 Imprime estas variables utilizando la función print() 
 """
 nombre = "Jose Carlos"
