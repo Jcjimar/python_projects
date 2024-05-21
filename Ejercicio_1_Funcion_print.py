@@ -10,3 +10,4 @@ altura= 1.72
 imc= peso / (altura**2)
 
 print("Mi nombre es " + nombre + " tengo " + str(edad)+    " años "+" mi peso es de  "+ str(peso)+" kg "+ " y mi altura es "  +str(altura)+" mts "+ " y mi indice de masa        muscular es " + str(imc))
+
